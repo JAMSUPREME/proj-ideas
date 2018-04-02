@@ -13,3 +13,7 @@ Here's where I jot down ideas for things to build
 # Ruby
 
 * Questionnaire - Some sort of helper lib for setting up a question-based workflow. e.g. Q1 might branch to Q2 OR Q3, Q2 AND Q3, or Q4, etc...
+
+# Rust
+
+* "Tin-plates" templates. Use basic lang syntax to do templates? e.g. `html()`, `div()`, etc.
